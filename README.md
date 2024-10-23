@@ -1,7 +1,5 @@
 
-<p align="left">
-<a href="https://linkedin.com/in/thalesfornazari" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="thales fornazari" /></a>
-</p>
+<a href="https://linkedin.com/in/thalesfornazari" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="thales fornazari" width="40" height="40" /></a>
 
 Seasoned finance professional, now a JavaScript backend developer with an atypical combination of analytical and technical skills. From having driven the growth of the business in the financial segment in Brazil, I now dedicate my time to crafting scalable and efficient backend solutions. With proficiency in data analysis and insight, I expand my skill set in JavaScript, Node.js, and related technologies to create innovative applications.
 
