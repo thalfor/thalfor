@@ -1,6 +1,7 @@
 <a href="https://linkedin.com/in/thalesfornazari" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="thales fornazari" width="50" height="50" /></a>
 
-Seasoned finance professional, now a JavaScript backend developer with an atypical combination of analytical and technical skills. From having driven the growth of the business in the financial segment in Brazil, I now dedicate my time to crafting scalable and efficient backend solutions. With proficiency in data analysis and insight, I expand my skill set in JavaScript, Node.js, and related technologies to create innovative applications.
+Seasoned finance professional, now a JavaScript backend developer with an atypical combination of analytical and technical skills. From having driven the growth of the business in the financial segment in Brazil, I now dedicate my time to crafting scalable and efficient backend solutions. 
+With proficiency in data analysis and insight, I expand my skill set in JavaScript, Node.js, and related technologies to create innovative applications.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=1ZSHk8m9bk4p&format=png&color=000000" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="40" height="40"/> </a> 
