@@ -5,13 +5,13 @@ With proficiency in data analysis and insight, I'm expanding my skill set in Jav
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=1ZSHk8m9bk4p&format=png&color=000000" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="nestjs" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=46845&format=png&color=000000" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" alt="react" width="40" height="40"/> </a> 
 
 
 
 <!--
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="nestjs" width="40" height="40"/> </a> 
 **thalfor/thalfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
